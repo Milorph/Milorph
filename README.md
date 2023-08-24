@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://twitter.com/robertwidjaja3" target="blank"><img src="https://img.shields.io/twitter/follow/robertwidjaja3?logo=twitter&style=for-the-badge" alt="robertwidjaja3" /></a> </p>
 
-- 🌱 <samp>I’m currently learning: **Flutter, Dart, Computer Vision and more!**
+- 🌱 <samp>I’m currently learning: **Flutter, Dart, Computer Vision.**
 
 - 👨‍💻 <samp>All of my projects are available at: [https://robertwja.netlify.app/](https://robertwja.netlify.app/)
 
