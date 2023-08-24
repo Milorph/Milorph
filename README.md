@@ -31,3 +31,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=milorph&show_icons=true&locale=en&layout=compact" alt="milorph" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=milorph&" alt="milorph" /></p>
+
+![snake gif](https://github.com/Milorph/Milorph/blob/output/github-contribution-grid-snake.gif)
