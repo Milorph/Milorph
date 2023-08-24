@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/originals/ee/21/b6/ee21b6f99f0effacee7f97699144b5f3.gif" alt="MasterHead" width="1200" height="300">
+<img src="[https://i.pinimg.com/originals/ee/21/b6/ee21b6f99f0effacee7f97699144b5f3.gif](https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2F05uhd2ihjs671.gif%3Fwidth%3D1920%26auto%3Dwebp%26s%3D2cfe2e79dafaccd849f4d2b7f2622ea565c748af)" alt="MasterHead" width="1200" height="300">
 
 <h1 align="center">Hi 👋, I'm Robert Widjaja</h1>
 <h3 align="center">A passionate Software Engineer from Indonesia in the US</h3>
