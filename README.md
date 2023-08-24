@@ -22,7 +22,7 @@
 <p align="left">
 <a href="https://twitter.com/robertwidjaja3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="robertwidjaja3" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/robert-widjaja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="robert-widjaja" height="30" width="40" /></a>
-<a href="https://instagram.com/robertwja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="robertwja" height="30" width="40" /></a>
+<a href="https://instagram.com/robertwwja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="robertwwja" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
