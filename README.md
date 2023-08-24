@@ -1,4 +1,4 @@
-<img src="[https://i.pinimg.com/originals/ee/21/b6/ee21b6f99f0effacee7f97699144b5f3.gif](https://i.pinimg.com/originals/ee/21/b6/ee21b6f99f0effacee7f97699144b5f3.gif)" alt="MasterHead" width="1200" height="300">
+<img src="https://i.pinimg.com/originals/ee/21/b6/ee21b6f99f0effacee7f97699144b5f3.gif" alt="MasterHead" width="1200" height="300">
 
 <h1 align="center">Hi 👋, I'm Robert Widjaja</h1>
 <h3 align="center">A passionate Software Engineer from Indonesia in the US</h3>
