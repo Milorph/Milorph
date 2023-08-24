@@ -1,4 +1,4 @@
-[![MasterHead](https://media.tenor.com/Cxhbf20E_EoAAAAC/banner.gif)]
+[![MasterHead](https://media.tenor.com/Cxhbf20E_EoAAAAC/banner.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Robert Widjaja</h1>
 <h3 align="center">A passionate Software Engineer from Indonesia in the US</h3>
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/spongebob-squarepants-pc-fire-vap1vi52dakvrni9.gif">
