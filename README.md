@@ -38,7 +38,7 @@
 
 <h3 align="left">Find me now:</h3>
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/477719507465666560)](https://discord.com/users/477719507465666560)>
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/477719507465666560)](https://discord.com/users/477719507465666560)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">   
 
