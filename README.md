@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Robert Widjaja</h1>
-<h3 align="center">A soon to graduate student studying in the US!</h3>
+<h1 align="center" ><i>Life Is Roblox ~ DJ Khaled</i></h1>
 
 <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/dfredg5-0a60e875-646e-4d6c-bb91-73086f012808.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M4M2MwMDRlLTEzNzAtNDc1Ni04OGU1LTQwNzFkZTc5NzA4OFwvZGZyZWRnNS0wYTYwZTg3NS02NDZlLTRkNmMtYmI5MS03MzA4NmYwMTI4MDguZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.LGN_eGL7dT0xRj4oRbyRRVay-pHbyiXHru7YoVPcRro" alt="MasterHead" width="1200" height="500">
 
@@ -31,6 +30,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=milorph&show_icons=true&locale=en&layout=compact" alt="milorph" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=milorph&" alt="milorph" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=milorph&" alt="milorph" /></p>
 
 ![snake gif](https://github.com/Milorph/Milorph/blob/output/github-contribution-grid-snake.gif)
