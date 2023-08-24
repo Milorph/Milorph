@@ -1,4 +1,4 @@
-<img src="https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2F05uhd2ihjs671.gif%3Fformat%3Dmp4%26s%3D5201064959d6c723503f79416fef42a6dc1c7ec5" alt="MasterHead" width="1200" height="300">
+<img src="https://media.tenor.com/Rv4BcrN58asAAAAd/upload-upload-tv.gif" alt="MasterHead" width="1200" height="300">
 
 <h1 align="center">Hi 👋, I'm Robert Widjaja</h1>
 <h3 align="center">A passionate Software Engineer from Indonesia in the US</h3>
