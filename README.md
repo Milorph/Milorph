@@ -13,8 +13,6 @@
 
 - 🌱 <samp>I’m currently learning: **Flutter, Dart, Computer Vision.**
 
-- 👨‍💻 <samp>All of my projects are available at: [https://robertwja.netlify.app/](https://robertwja.netlify.app/)
-
 - 💬 <samp>Ask me about: **game recommendations!**
 
 - 📫 <samp>How to reach me: **robertwinstonwidjaja1@gmail.com**
