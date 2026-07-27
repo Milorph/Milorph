@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://twitter.com/robertwidjaja3" target="blank"><img src="https://img.shields.io/twitter/follow/robertwidjaja3?logo=twitter&style=for-the-badge" alt="robertwidjaja3" /></a> </p>
 
-- 🌱 <samp>I’m currently learning: **Flutter, Dart, Computer Vision.**
+- 🌱 <samp>I’m currently learning: **Machine learning... more machine learning... and more machine learning...**
 
 - 💬 <samp>Ask me about: **game recommendations!**
 
